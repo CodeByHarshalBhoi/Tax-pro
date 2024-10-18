@@ -13,6 +13,7 @@ const Adminsettings = () => {
     const handleTabClick = (tabName) => {
         setActiveTab(tabName);
     };
+    
 
     return (
         <>
